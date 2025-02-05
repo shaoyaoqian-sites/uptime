@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/transmission.pengfeima.cn.ico",
     "slug": "transmission",
     "status": "up",
-    "uptime": "2.96%",
-    "uptimeDay": "2.96%",
-    "uptimeWeek": "2.96%",
-    "uptimeMonth": "2.96%",
-    "uptimeYear": "2.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 708,
     "timeDay": 708,
     "timeWeek": 708,
     "timeMonth": 708,
     "timeYear": 708,
-    "dailyMinutesDown": {
-      "2025-02-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nginx 代理",
