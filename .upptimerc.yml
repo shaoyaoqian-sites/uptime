@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Transmission 
     url: https://transmission.pengfeima.cn
+    expectedStatusCodes:
+      - 401
   - name: Nginx 代理
     url: https://proxy.pengfeima.cn
   - name: IPv6 test
