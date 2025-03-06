@@ -22,19 +22,19 @@
     "url": "https://transmission.pengfeima.cn",
     "icon": "https://icons.duckduckgo.com/ip3/transmission.pengfeima.cn.ico",
     "slug": "transmission",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 1624,
-    "timeWeek": 1846,
-    "timeMonth": 1093,
-    "timeYear": 1067,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1060,
+    "timeDay": 1365,
+    "timeWeek": 1735,
+    "timeMonth": 1085,
+    "timeYear": 1060,
     "dailyMinutesDown": {
-      "2025-03-06": 0
+      "2025-03-06": 28
     }
   },
   {
