@@ -13,6 +13,14 @@ sites:
     url: https://talk.pengfeima.cn
   - name: publications
     url: https://publications.pengfeima.cn/publications
+  - name: 服务器监控
+    url: https://beszel.pengfeima.cn
+  - name: 简记
+    url: https://memory.pengfeima.cn
+  - name: 个人博客
+    url: https://blog.pengfeima.cn
+  - name: 个人主页
+    url: https://pengfeima.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
