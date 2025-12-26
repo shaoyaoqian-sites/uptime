@@ -28,7 +28,7 @@
     "url": "https://transmission.pengfeima.cn",
     "icon": "https://icons.duckduckgo.com/ip3/transmission.pengfeima.cn.ico",
     "slug": "transmission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 983,
     "timeYear": 982,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-04-24": 34,
       "2025-03-29": 33,
       "2025-03-06": 28
@@ -62,6 +63,7 @@
     "timeMonth": 946,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-03": 22,
       "2025-09-28": 24,
       "2025-07-12": 1042,
@@ -189,6 +191,7 @@
     "timeMonth": 946,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-03": 22,
       "2025-09-28": 24,
       "2025-07-12": 1042,
@@ -259,6 +262,7 @@
     "timeMonth": 946,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-03": 22,
       "2025-09-28": 24,
       "2025-07-12": 1042,
@@ -329,6 +333,7 @@
     "timeMonth": 946,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-03": 22,
       "2025-09-28": 24,
       "2025-07-12": 1042,
@@ -399,6 +404,7 @@
     "timeMonth": 946,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-03": 22,
       "2025-09-28": 24,
       "2025-07-12": 1042,
